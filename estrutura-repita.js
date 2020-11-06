@@ -1,23 +1,3 @@
-/*
-sairLoping: caracter
-  numero1, numero2, resultado : inteiro
-  
-
-Inicio
-           repita
-                 escreva("Digite o primeiro número: ")
-                 leia(numero1)
-                 escreva("Digite o segundo número: ")
-                 leia(numero2)
-                 escreval(" resultado : " , numero1 + numero2)
-                 escreval("Deseja sair? S/N ")
-                 leia(sairLoping)
-
-                 ate  sairLoping <> "N"
-
-*/
-
-  
 
 Inicio
 function acaoBotao() {
